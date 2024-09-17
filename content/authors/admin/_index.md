@@ -66,10 +66,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BEng
     institution: Sun Yat-sen University 
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2013-08
+    date_end: 2017-06
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.8/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
