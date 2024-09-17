@@ -46,7 +46,7 @@ interests:
 education:
   - area: PhD student in Astrophysics
     institution: University College London
-    date_start: 2021-11
+    date_start: 2021-11-01
     date_end: present
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
@@ -55,8 +55,8 @@ education:
       url: 'https://example.com'
   - area: MASt in Astrophysics (part 3)
     institution: University of Cambridge
-    date_start: 2019-09
-    date_end: 2020-07
+    date_start: 2019-09-01
+    date_end: 2020-07-01
     summary: |
       GPA: 3.8/4.0
 
@@ -66,8 +66,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BEng
     institution: Sun Yat-sen University 
-    date_start: 2013-08
-    date_end: 2017-06
+    date_start: 2013-08-01
+    date_end: 2017-06-01
     summary: |
       GPA: 3.8/4.0
       
