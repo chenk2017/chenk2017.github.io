@@ -174,4 +174,4 @@ awards:
 
 ## About Me
 
-Kan Chen is xxxxxx
+Kan Chen is a PhD candidate at UCL
