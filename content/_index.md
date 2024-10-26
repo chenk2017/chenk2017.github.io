@@ -53,7 +53,7 @@ sections:
     design:
       view: article-grid
       layout: row
-      columns: 2
+      columns: 3
 #   - block: collection
 #     content:
 #       title: Recent Publications
