@@ -11,11 +11,11 @@ redirect_from:
 
 You can find my CV here: [Kan Chen's_Curriculun Vitae](../files/cv.pdf).
 
-Education
+<!-- Education
 ======
 * Ph.D in Astrophysics, University College London, 2025 (expected)
 * MAst in Astrophysics, University of Cambridge, 2020
-* BEng. in Theoratical and Applied Mechanics, Sun Yat-sen University, 2017
+* BEng. in Theoratical and Applied Mechanics, Sun Yat-sen University, 2017 -->
 
 
 <!-- 
