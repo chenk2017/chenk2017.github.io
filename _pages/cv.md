@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV here: [Kan Chen's_Curriculun Vitae](../files/cv.pdf).
+You can find my CV here: [Kan Chen's Curriculun Vitae](../files/cv.pdf).
 
 <!-- Education
 ======
