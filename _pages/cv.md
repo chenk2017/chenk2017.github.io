@@ -9,12 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my CV here: [Kan Chen's_Curriculun Vitae](../files/cv. pdf).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Astrophysics, University College London, 2025 (expected)
+* MAst in Astrophysics, University of Cambridge, 2020
+* BEng. in Theoratical and Applied Mechanics, Sun Yat-sen University, 2017
 
+
+<!-- 
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -61,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
