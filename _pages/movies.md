@@ -23,7 +23,7 @@ Here are some of my simulation movies:
 </video> -->
 
 <video width="640" height="360" controls>
-  <source src="../files/mv_chan_5mth_visc1e-3_cps20_1000ob_inc45_pa0_phi225.mp4" type="video/mp4">
+  <source src="../files/mv_chan_5mth_visc1e-3_cps20_1000ob_inc45_pa0_phi225.mp4" type="video/mp4; codecs='avc1.42E01E, mp4a.40.2'">
   <source src="../files/mv_chan_5mth_visc1e-3_cps20_1000ob_inc45_pa0_phi225.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
