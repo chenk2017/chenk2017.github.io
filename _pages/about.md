@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Welcome to Kan Chen's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
