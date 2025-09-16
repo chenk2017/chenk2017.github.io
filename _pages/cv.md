@@ -13,8 +13,8 @@ You can find my CV here: [Kan Chen's Curriculum Vitae](../files/cv.pdf).
 
 Employment
 ======
-* KIAA Fellowship, Kavli Institute for Astronomy and Astrophysics (KIAA), Peking University, 2025-present
- 
+* KIAA Fellow & Boya Fellow, Kavli Institute for Astronomy and Astrophysics (KIAA), Peking University, 2025-present
+
 
 Education
 ======
