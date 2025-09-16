@@ -11,9 +11,14 @@ redirect_from:
 
 You can find my CV here: [Kan Chen's Curriculum Vitae](../files/cv.pdf).
 
+Employment
+======
+* KIAA Fellowship, Kavli Institute for Astronomy and Astrophysics (KIAA), Peking University, 2025-present
+ 
+
 Education
 ======
-* Ph.D in Astrophysics, University College London, 2025 (expected)
+* Ph.D in Astrophysics, University College London, 2025 
 * MAst in Astrophysics, University of Cambridge, 2020
 * BEng. in Theoratical and Applied Mechanics, Sun Yat-sen University, 2017
 
